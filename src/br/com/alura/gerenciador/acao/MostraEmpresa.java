@@ -28,6 +28,7 @@ public class MostraEmpresa {
 
 		RequestDispatcher rd = request.getRequestDispatcher("/formAlteraEmpresa.jsp");
 		rd.forward(request, response);
+		System.out.println("Mostrando empresa acao");
 
 	}
 }
