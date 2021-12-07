@@ -1,4 +1,4 @@
-package br.com.alura.gerenciador.servlet;
+package br.com.alura.gerenciador.model;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -52,5 +52,4 @@ public class Banco {
 			}
 		}
 	}
-
 }

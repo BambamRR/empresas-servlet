@@ -1,5 +1,8 @@
 package br.com.alura.gerenciador.servlet;
 
+import br.com.alura.gerenciador.model.Banco;
+import br.com.alura.gerenciador.model.Empresa;
+
 public class TestModelMethods {
 	
 	public static void main(String[] args) {
