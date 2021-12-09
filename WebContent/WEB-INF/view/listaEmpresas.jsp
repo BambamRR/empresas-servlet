@@ -16,6 +16,8 @@
 		Empresa ${ empresa } cadastrada com sucesso!
 	</c:if>
 	
+	<p>Usuario : ${usuarioLogado.login} </p>
+	
 	Lista de empresas: <br />
 	
 	<ul>
