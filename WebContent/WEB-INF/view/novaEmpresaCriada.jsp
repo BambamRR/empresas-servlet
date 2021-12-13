@@ -4,6 +4,7 @@
 
 <html>
 <body>
+<c:import url="logout-parcial.jsp"/>
 	<c:if test="${not empty empresa}">
            
 			Empresa ${ empresa } - CNPJ: ${ cnpj  } cadastrada com sucesso!
