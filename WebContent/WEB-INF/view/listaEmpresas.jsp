@@ -17,11 +17,9 @@
 	</c:if>
 	
 	<c:import url="logout-parcial.jsp"/>
-	
 	<p>Usuario : ${usuarioLogado.login}</p>
 <!-- 		<a href="/gerenciador/entrada?acao=Logout">Logout</a> --> 
 	
-	<br />
 	<a href="/gerenciador/entrada?acao=NovaEmpresaForm">Cadastrar Empresa</a>
 	<br /> Lista de empresas:
 	<br />
